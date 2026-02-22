@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Keisei Sai 👋
 
-<!--
-**Keisei-Sai/Keisei-Sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics undergraduate at **Tokyo University of Science**  
+Interested in **optimization, algorithms, and numerical computing**.
 
-Here are some ideas to get you started:
+## 🔬 Current Focus
+- Optimization on manifolds
+- Algorithmic problem solving (LeetCode / AtCoder)
+- Preparing for Software Engineering internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Geometric Optimization on Manifolds**  
+  Manifold-aware gradient descent with numerical experiments and visualizations:  
+  `github.com/Keisei-Sai/manifold-optimization`
+
+- **Algorithm Practice**  
+  Interview-style problems with clean implementations and complexity notes:  
+  `github.com/Keisei-Sai/algorithm-practice`
+
+## 🧠 Background
+I enjoy translating mathematical ideas into practical algorithms and implementations.
+
+## 📫 Contact
+- Email: tsaiqicheng@gmail.com
