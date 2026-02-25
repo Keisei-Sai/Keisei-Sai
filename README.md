@@ -1,7 +1,7 @@
-# Hi, I'm Keisei Sai
+# Keisei Sai
 
-Mathematics undergraduate at **Tokyo University of Science**  
-Interested in **optimization, algorithms, and numerical computing**.
+Mathematics undergraduate at Tokyo University of Science  
+Interested in optimization, numerical computation, and software engineering.
 
 ## Current Focus
 - Optimization on manifolds
