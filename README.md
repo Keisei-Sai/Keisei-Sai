@@ -1,24 +1,20 @@
 # Keisei Sai
 
-Mathematics undergraduate at Tokyo University of Science  
-Interested in optimization, numerical computation, and software engineering.
+Mathematics student at Tokyo University of Science focused on translating mathematical ideas into computational models and decision-support tools.
 
-## Current Focus
-- Optimization on manifolds
-- Algorithmic problem solving (LeetCode / AtCoder)
-- Preparing for Software Engineering internships
+## Interests
+- Optimization under geometric constraints
+- Computational modeling
+- Decision-support technology
+- Applied AI and LLM applications
 
 ## Featured Projects
-- **Geometric Optimization on Manifolds**  
-  Manifold-aware gradient descent with numerical experiments and visualizations:  
-  `github.com/Keisei-Sai/manifold-optimization`
+- Geometric Optimization on Manifolds — numerical experiments exploring optimization behavior
+- Algorithm Practice — structured learning of algorithmic problem solving
 
-- **Algorithm Practice**  
-  Interview-style problems with clean implementations and complexity notes:  
-  `github.com/Keisei-Sai/algorithm-practice`
+## Currently Learning
+- LLM Applications (UTokyo Matsuo Lab)
+- Algorithms and system thinking
 
-## Background
-I enjoy translating mathematical ideas into practical algorithms and implementations.
-
-## Contact
-- Email: tsaiqicheng@gmail.com
+## Goal
+To bridge mathematical thinking and technology to help people and organizations make better decisions.
