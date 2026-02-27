@@ -1,57 +1,50 @@
 # Keisei Sai
 
----
+Mathematics student specializing in **differential geometry** with a strong interest in **optimization and computational problem solving**.
 
-Mathematics student specializing in differential geometry with a focus on optimization and computational problem solving.
-
-I build computational projects that transform mathematical ideas into practical tools for understanding and solving real-world problems.
+I build projects that translate mathematical theory into practical and explainable computational systems.
 
 ---
 
 ## Current Focus
 
 - Geometric optimization
-- Numerical experiments and visualization
+- Numerical experiments & visualization
 - Bridging mathematical theory and real-world problem solving
-- Communicating technical ideas through visualization and experimentation
+- Algorithmic problem solving (LeetCode)
 
 ---
 
-## Featured Project
+## ⭐ Featured Project
+
+![Optimization Example](https://raw.githubusercontent.com/Keisei-Sai/manifold-optimization/main/figures/convergence.png)
 
 ### Geometric Optimization on Manifolds
 Implementation and visualization of optimization under geometric constraints.
 
-https://github.com/Keisei-Sai/manifold-optimization
+👉 https://github.com/Keisei-Sai/manifold-optimization
 
-This project demonstrates how geometric constraints influence optimization behavior through reproducible experiments and visual explanations.
-
-Designed to make abstract optimization concepts understandable through computation and visualization.
-
----
-
-## Background
-
-- B.Sc. in Mathematics (Differential Geometry)
-- Self-directed study in optimization theory
-- Numerical implementation in Python
+- Manifold-aware optimization
+- Reproducible experiments
+- Scientific visualization
+- Geometry-driven convergence analysis
 
 ---
 
-## Skills
+## Algorithm Practice
 
-**Mathematics**
-- Differential Geometry
-- Optimization Theory
-- Numerical Methods
+Interview-oriented algorithm implementations with complexity analysis.
 
-**Programming**
-- Python
-- NumPy / Matplotlib
-- Algorithm implementation
+👉 https://github.com/Keisei-Sai/algorithm-practice
+
+Topics:
+- Hash / Set
+- Stack
+- Greedy
+- Binary Search
 
 ---
 
-## Contact
+## Learning Philosophy
 
-- GitHub: https://github.com/Keisei-Sai
+I aim to connect mathematical abstraction with executable systems, using experimentation and visualization to deepen understanding.
