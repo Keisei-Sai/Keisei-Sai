@@ -1,5 +1,9 @@
 # Keisei Sai
 
+![Python](https://img.shields.io/badge/Python-Scientific%20Computing-blue)
+![Optimization](https://img.shields.io/badge/Optimization-Manifold-green)
+![Mathematics](https://img.shields.io/badge/Math-Differential%20Geometry-orange)
+
 Mathematics student specializing in **differential geometry** with a strong interest in **optimization and computational problem solving**.
 
 I build projects that translate mathematical theory into practical and explainable computational systems.
@@ -48,3 +52,12 @@ Topics:
 ## Learning Philosophy
 
 I aim to connect mathematical abstraction with executable systems, using experimentation and visualization to deepen understanding.
+
+---
+
+## Currently Learning
+
+- Riemannian optimization
+- Numerical optimization theory
+- Algorithmic problem solving (LeetCode)
+- Practical visualization for explaining mathematical behavior
