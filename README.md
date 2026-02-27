@@ -2,9 +2,9 @@
 
 ---
 
-Mathematics student specializing in differential geometry with a strong interest in optimization and computational problem solving.
+Mathematics student specializing in differential geometry with a focus on optimization and computational problem solving.
 
-I build projects that translate mathematical theory into practical and explainable computational systems.
+I build computational projects that transform mathematical ideas into practical tools for understanding and solving real-world problems.
 
 ---
 
@@ -13,6 +13,7 @@ I build projects that translate mathematical theory into practical and explainab
 - Geometric optimization
 - Numerical experiments and visualization
 - Bridging mathematical theory and real-world problem solving
+- Communicating technical ideas through visualization and experimentation
 
 ---
 
@@ -23,7 +24,9 @@ Implementation and visualization of optimization under geometric constraints.
 
 https://github.com/Keisei-Sai/manifold-optimization
 
-This project explores how geometry changes optimization behavior through reproducible experiments.
+This project demonstrates how geometric constraints influence optimization behavior through reproducible experiments and visual explanations.
+
+Designed to make abstract optimization concepts understandable through computation and visualization.
 
 ---
 
