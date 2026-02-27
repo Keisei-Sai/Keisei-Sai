@@ -1,20 +1,54 @@
 # Keisei Sai
 
-Mathematics student at Tokyo University of Science focused on translating mathematical ideas into computational models and decision-support tools.
+---
 
-## Interests
-- Optimization under geometric constraints
-- Computational modeling
-- Decision-support technology
-- Applied AI and LLM applications
+Mathematics student specializing in differential geometry with a strong interest in optimization and computational problem solving.
 
-## Featured Projects
-- Geometric Optimization on Manifolds — numerical experiments exploring optimization behavior
-- Algorithm Practice — structured learning of algorithmic problem solving
+I build projects that translate mathematical theory into practical and explainable computational systems.
 
-## Currently Learning
-- LLM Applications (UTokyo Matsuo Lab)
-- Algorithms and system thinking
+---
 
-## Goal
-To bridge mathematical thinking and technology to help people and organizations make better decisions.
+## Current Focus
+
+- Geometric optimization
+- Numerical experiments and visualization
+- Bridging mathematical theory and real-world problem solving
+
+---
+
+## Featured Project
+
+### Geometric Optimization on Manifolds
+Implementation and visualization of optimization under geometric constraints.
+
+https://github.com/Keisei-Sai/manifold-optimization
+
+This project explores how geometry changes optimization behavior through reproducible experiments.
+
+---
+
+## Background
+
+- B.Sc. in Mathematics (Differential Geometry)
+- Self-directed study in optimization theory
+- Numerical implementation in Python
+
+---
+
+## Skills
+
+**Mathematics**
+- Differential Geometry
+- Optimization Theory
+- Numerical Methods
+
+**Programming**
+- Python
+- NumPy / Matplotlib
+- Algorithm implementation
+
+---
+
+## Contact
+
+- GitHub: https://github.com/Keisei-Sai
